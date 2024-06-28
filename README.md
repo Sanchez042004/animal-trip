@@ -1,6 +1,6 @@
 # Sistema de Transporte para Mascotas "Animal Trip"
 
-<img src="src/imagenes/logoAT.png" alt="Animal Trip">
+<img src="src/imagenes/logo1.png" alt="Animal Trip">
 
 ## Descripción del Proyecto
 
