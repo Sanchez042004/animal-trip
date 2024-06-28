@@ -27,9 +27,12 @@ El proyecto consiste en el desarrollo de una aplicación de escritorio para faci
 Para utilizar la aplicación, se requiere tener instalado Java y Microsoft SQL Server. A continuación, los pasos para configurar y ejecutar el sistema:
 
 1. Clonar este repositorio.
-2. Importar el proyecto en NetBeans.
-3. Se recomienda leer la documentación y el funcionamiento para poder modificar los archivos necesarios.
-4. Ejecutar la aplicación desde NetBeans.
+```
+git clone https://github.com/Sanchez042004/animal-trip
+```
+3. Importar el proyecto en NetBeans.
+4. Se recomienda leer la documentación y el funcionamiento para poder modificar los archivos necesarios.
+5. Ejecutar la aplicación desde NetBeans.
 
 ## Autor
 
@@ -37,4 +40,4 @@ Andrés Sánchez - [https://github.com/Sanchez042004](https://github.com/Sanchez
 
 ## Licencia
 
-Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
+Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
