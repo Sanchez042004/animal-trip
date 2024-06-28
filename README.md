@@ -17,6 +17,14 @@ El proyecto consiste en el desarrollo de una aplicación de escritorio para faci
 - **Desarrollo en Java**: Implementación del sistema utilizando Java, con el entorno de desarrollo NetBeans 8.2.
 
 - **Patrón de Arquitectura MVC**: La aplicación sigue el patrón Modelo-Vista-Controlador (MVC), separando la lógica de negocio (Modelo), la presentación (Vista) y la interacción del usuario (Controlador) para mejorar la estructura y mantenibilidad del código.
+- **Usuarios y Logins**: La aplicación implementa los roles de usuario, es decir que la configuracion permite que exista un Administrador, un Cliente y un Empleado.
+<p align="center">
+  <img src="src/imagenes/usuarios.png" alt="Usuarios y logins">
+</p>
+
+<p align="center">
+  <img src="src/imagenes/Reserva.png" alt="Reserva" width="500">
+</p>
 
 ## Componentes del Sistema
 
