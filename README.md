@@ -14,6 +14,7 @@ El proyecto consiste en el desarrollo de una aplicación de escritorio para faci
 <p align="center">
   <img src="src/imagenes/Reserva.png" alt="Reserva" width="500">
 </p>
+
 - **Base de Datos Segura**: Utilización de Microsoft SQL Server para almacenar y administrar datos de clientes, reservas, rutas, etc., asegurando la integridad y disponibilidad de la información.
 
 - **Desarrollo en Java**: Implementación del sistema utilizando Java, con el entorno de desarrollo NetBeans 8.2.
