@@ -37,6 +37,4 @@ Andrés Sánchez - [https://github.com/Sanchez042004](https://github.com/Sanchez
 
 ## Licencia
 
-Este proyecto está bajo los términos de la Licencia Creative Commons Attribution-NonCommercial 4.0 International Puede encontrar más detalles en el archivo [LICENSE](LICENSE).
-
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
