@@ -21,7 +21,7 @@ El proyecto consiste en el desarrollo de una aplicación de escritorio para faci
 - **Patrón de Arquitectura MVC**: La aplicación sigue el patrón Modelo-Vista-Controlador (MVC), separando la lógica de negocio (Modelo), la presentación (Vista) y la interacción del usuario (Controlador) para mejorar la estructura y mantenibilidad del código.
 - **Usuarios y Logins**: La aplicación implementa los roles de usuario, es decir que la configuracion permite que exista un Administrador, un Cliente y un Empleado.
 <p align="center">
-  <img src="src/imagenes/usuarios.png" alt="Usuarios y logins" width="500">
+  <img src="src/imagenes/usuarios.png" alt="Usuarios y logins" width="600">
 </p>
 
 ## Componentes del Sistema
