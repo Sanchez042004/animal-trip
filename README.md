@@ -18,6 +18,11 @@ El proyecto consiste en el desarrollo de una aplicación de escritorio para faci
 
 - **Patrón de Arquitectura MVC**: La aplicación sigue el patrón Modelo-Vista-Controlador (MVC), separando la lógica de negocio (Modelo), la presentación (Vista) y la interacción del usuario (Controlador) para mejorar la estructura y mantenibilidad del código.
 
+<p align="center">
+  <img src="src/imagenes/Reserva.png" alt="Reserva">
+</p>
+
+
 ## Componentes del Sistema
 
 1. **Interfaz de Usuario**: Aplicación de escritorio desarrollada en Java con NetBeans, ofreciendo una experiencia amigable para los usuarios.
