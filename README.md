@@ -1,5 +1,7 @@
 # Sistema de Transporte para Mascotas "Animal Trip"
 
+<img src="src/imagenes/logoAT.png" alt="Animal Trip">
+
 ## Descripción del Proyecto
 
 El proyecto consiste en el desarrollo de una aplicación de escritorio para facilitar el transporte seguro y cómodo de mascotas en trayectos largos. La aplicación permitirá a los usuarios reservar y planificar viajes para sus mascotas, asegurando estándares de confort y seguridad.
